@@ -3,7 +3,7 @@
 # FILENAME: decision_tree_2.py
 # SPECIFICATION: Testing the accuracy of the different training samples for a decision tree compared to a test
 # FOR: CS 4210- Assignment #2
-# TIME SPENT: how long it took you to complete the assignment
+# TIME SPENT: This program took me about an hour to complete
 #-----------------------------------------------------------*/
 
 #IMPORTANT NOTE: DO NOT USE ANY ADVANCED PYTHON LIBRARY TO COMPLETE THIS CODE SUCH AS numpy OR pandas. You have to work here only with standard
