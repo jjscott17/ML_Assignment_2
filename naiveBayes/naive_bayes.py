@@ -1,9 +1,9 @@
 #-------------------------------------------------------------------------
 # AUTHOR: Joseph Scott
 # FILENAME: naive_bayes.py
-# SPECIFICATION: description of the program
+# SPECIFICATION: This program uses training data to classify the test data and calculate the confidence of those class predictions for if the it is recommended to play tennis or not based on weather conditions.
 # FOR: CS 4210- Assignment #2
-# TIME SPENT: how long it took you to complete the assignment
+# TIME SPENT: This program took me an hour to complete
 #-----------------------------------------------------------*/
 
 #IMPORTANT NOTE: DO NOT USE ANY ADVANCED PYTHON LIBRARY TO COMPLETE THIS CODE SUCH AS numpy OR pandas. You have to work here only with standard
